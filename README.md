@@ -1,6 +1,6 @@
 # **DESCRIPTION**
 
-## Forecast of crude steel production explained by pig iron production.
+## Forecast of crude steel production explained by pig iron production
 To make a prediction of crude steel production, using pig iron production as the explanatory variable, it was first necessary to make a prediction for the values of the independent variable. These values were entered into the database and thus the values of the dependent variable were predicted.
 
 Results of the pig iron prediction model: https://github.com/juliokozarewicz/pig_iron
